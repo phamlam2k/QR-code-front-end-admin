@@ -1,0 +1,21 @@
+.form-attendance{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.form-attendance-search{
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+}
+
+.form-attendance-search__student{
+    width: 30%;
+    margin-right: 30px;
+}
+
+.form-attendance-search__subject{
+    width: 30%;
+    margin-right: 30px;
+}

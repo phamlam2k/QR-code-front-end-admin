@@ -1,0 +1,17 @@
+.layout-student-detail-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+
+.layout-student-detail-btn-open{
+    background-color: greenyellow;
+    margin-right: 10px;
+}
+
+.layout-student-detail-btn-close{
+    background-color: rgb(238, 67, 67);
+    margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+.layout-teacher-detail{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.layout-teacher-detail-photo{
+    text-align: center;
+
+}
+.layout-teacher-detail-photo .ant-image{
+    width: 30%;
+}
+
+.layout-teacher-detail-text{
+    font-size: 20px;
+    font-weight: 600;
+}

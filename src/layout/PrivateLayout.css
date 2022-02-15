@@ -1,0 +1,29 @@
+
+.private-layout-header{
+    background-color: white;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.private-layout-menu{
+    margin-top: 30px;
+}
+
+.private-layout-user-icon{
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+}
+
+.private-layout-log-out-btn{
+    cursor: pointer;
+    padding: 5px;
+}
+
+.private-layout-log-out-btn:hover{
+    background-color:#273896 ;
+    color: white;
+}

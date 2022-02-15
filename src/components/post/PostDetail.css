@@ -1,0 +1,44 @@
+.post-detail{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.post-detail-content{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-detail-content-description{
+    margin-top: 20px;
+
+}
+.post-detail-content-date{
+    text-align: right;
+    margin-top: 20px;
+    color: rgb(196, 196, 196);
+    width: 100%;
+}
+
+.post-detail-content-btn{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.post-detail-content-btn .ant-btn{
+    width: 100px;
+
+}
+
+.post-detail-content-btn .ant-btn:first-child{
+    margin-right: 10px;
+}

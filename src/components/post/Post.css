@@ -1,0 +1,20 @@
+.post-status{
+    display: flex;
+    align-items: center;
+}
+
+.post-status-accept{
+    width: 6px;
+    height: 6px;
+    border-radius: 1rem;
+    background-color: greenyellow;
+    margin-right: 10px;
+}
+
+.post-status-wait{
+    width: 6px;
+    height: 6px;
+    border-radius: 1rem;
+    background-color: orange;
+    margin-right: 10px;
+}

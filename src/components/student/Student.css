@@ -1,0 +1,83 @@
+.layout-student-padd{
+    padding: 50px;
+}
+
+.layout-student-padd-button{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.layout-student-padd-button .ant-btn{
+    border-radius: 4px;
+}
+
+.layout-student-pop-over{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.layout-student-pop-over-item{
+    width: 100%;
+    padding: 10px;
+}
+.layout-student-pop-over-item:hover{
+    background-color: #273896;
+    color: white;
+    cursor: pointer;
+}
+
+.layout-student-pop-over-item .anticon-setting{
+    margin-right: 10px;
+}
+
+.layout-student-pop-over-item .anticon-delete{
+    margin-right: 10px;
+}
+
+.layout-student.ant-layout {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.layout-student-form-content{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.layout-student-form{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.layout-student-search{
+    display: flex;
+}
+
+.layout-student-search-input.ant-row{
+    margin-right: 10px;
+}
+
+.layout-student-table .ant-image-img{
+    width: 60px;
+}
+
+.layout-student-search-input .ant-input{
+    height: 40px;
+}
+
+.layout-student-table .ant-table-row{
+    cursor: pointer;
+}
+
+.icon_more_info{
+    z-index: 9;
+    font-size: 20px;
+    color: black;
+}

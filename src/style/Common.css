@@ -1,0 +1,18 @@
+.btn{
+    background-color: rgb(39 56 150);
+    color: white;
+    border-radius: 4px;
+}
+.ant-layout-sider-children{
+    background-color: white;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+
+.private-layout-header{
+    background-color: white;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+
+.private-layout-menu{
+    margin-top: 30px;
+}

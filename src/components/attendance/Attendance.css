@@ -1,0 +1,8 @@
+.layout-attendance{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin: 20px auto;
+    width: 97%;
+}
